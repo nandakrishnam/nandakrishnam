@@ -1,6 +1,1 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="banner"/>
-</p>
-
-<h2 align="center">Hey, I'm Nandakrishna M</h2>
-<p align="center">Offensive Security Consultant ⚡ | Security Researcher 🧰 |Bug Hunter 🧙‍♂️</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F783&background=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hey+i'm+Nandakrishna+M;Offensive+Security+Consultant+%E2%9A%A1+%7C+Security+Researcher+%F0%9F%A7%B0+%7CBug+Hunter+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
