@@ -1,3 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff8a,100:0d1420&height=110&section=header&animation=fadeIn" width="100%" alt="" />
+
+<div align="center">
+
+<img src="./glitch-title-v1.svg" alt="Nandakrishna M" width="100%" />
+
+</div>
+
 <div align="center">
 
 <a href="https://nandakrishnam.github.io"><img src="./terminal-v5.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. About: pentester from Kerala, India, testing web apps, APIs, AI/LLM agents and networks; focuses on auth and business-logic flaws and proves every finding with a working PoC; hunts bugs and plays CTFs outside client work. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs. Website: https://nandakrishnam.github.io" width="100%" /></a>

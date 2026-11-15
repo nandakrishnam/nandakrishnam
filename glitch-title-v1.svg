@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120" role="img" aria-label="Nandakrishna M">
+<style>
+text { font-family: 'JetBrains Mono','Fira Code',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 58px; font-weight: 700; }
+@keyframes red {
+  0%, 86%, 100% { opacity: 0; transform: translate(0, 0) }
+  87% { opacity: .9; transform: translate(-5px, 0) }
+  89% { opacity: .9; transform: translate(4px, -1px) }
+  91% { opacity: .9; transform: translate(-2px, 1px) }
+  93% { opacity: 0; transform: translate(0, 0) }
+}
+@keyframes cyan {
+  0%, 87%, 100% { opacity: 0; transform: translate(0, 0) }
+  88% { opacity: .9; transform: translate(5px, 0) }
+  90% { opacity: .9; transform: translate(-4px, 1px) }
+  92% { opacity: .9; transform: translate(2px, -1px) }
+  94% { opacity: 0; transform: translate(0, 0) }
+}
+@keyframes jolt {
+  0%, 87%, 94%, 100% { transform: translate(0, 0) }
+  88% { transform: translate(2px, 0) }
+  90% { transform: translate(-2px, 0) }
+  92% { transform: translate(1px, 0) }
+}
+.red { animation: red 4.0s steps(1) infinite; }
+.cyan { animation: cyan 4.0s steps(1) infinite; }
+.main { animation: jolt 4.0s steps(1) infinite; }
+@media (prefers-reduced-motion: reduce) { .red, .cyan, .main { animation: none !important } .red, .cyan { opacity: 0 } }
+</style>
+<defs>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+  <feGaussianBlur stdDeviation="5" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<clipPath id="top"><rect x="0" y="0" width="860" height="60"/></clipPath>
+<clipPath id="bottom"><rect x="0" y="62" width="860" height="120"/></clipPath>
+</defs>
+<g clip-path="url(#top)"><text class="red" x="430.0" y="80.3" text-anchor="middle" fill="#ff2a6d" >Nandakrishna M</text></g>
+<g clip-path="url(#bottom)"><text class="cyan" x="430.0" y="80.3" text-anchor="middle" fill="#05d9e8" >Nandakrishna M</text></g>
+<text class="main" x="430.0" y="80.3" text-anchor="middle" fill="#39ff8a" filter="url(#glow)">Nandakrishna M</text>
+</svg>
