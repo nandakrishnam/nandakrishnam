@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./terminal.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs."100%" />
+<img src="./terminal.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs." width="100%" />
 
 </div>
 
