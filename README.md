@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./glitch-title-v1.svg" alt="Nandakrishna M" width="100%" />
+<img src="./glitch-title-v2.svg" alt="Nandakrishna M, Offensive Security Consultant" width="100%" />
 
 </div>
 
