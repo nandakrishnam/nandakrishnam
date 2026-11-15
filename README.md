@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./terminal-v2.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs." width="100%" />
+<img src="./terminal-v3.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. About: pentester from Kerala, India, testing web apps, APIs, AI/LLM agents and networks; focuses on auth and business-logic flaws and proves every finding with a working PoC; hunts bugs and plays CTFs outside client work. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs." width="100%" />
 
 </div>
 
