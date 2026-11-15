@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="394" viewBox="0 0 860 394" role="img" aria-label="Terminal: whoami, about, focus areas and website">
+<style>
+text { font-family: 'JetBrains Mono','Fira Code',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 14px; white-space: pre; }
+@keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+.blk { animation: blink 1s steps(1) infinite; }
+@keyframes s0 { 0%, 5.718% { opacity: 0 } 5.790%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g0 { opacity: 0; animation: s0 13.99s linear infinite; }
+@keyframes t0 { 0%, 5.718% { transform: translateX(0); animation-timing-function: steps(6, end) } 8.721%, 100% { transform: translateX(62.4px) } }
+.c0 { animation: t0 13.99s infinite; }
+@keyframes s1 { 0%, 11.222% { opacity: 0 } 11.294%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g1 { opacity: 0; animation: s1 13.99s linear infinite; }
+@keyframes s2 { 0%, 17.084% { opacity: 0 } 17.155%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g2 { opacity: 0; animation: s2 13.99s linear infinite; }
+@keyframes t2 { 0%, 17.084% { transform: translateX(0); animation-timing-function: steps(13, end) } 23.588%, 100% { transform: translateX(121.2px) } }
+.c2 { animation: t2 13.99s infinite; }
+@keyframes s3 { 0%, 26.090% { opacity: 0 } 26.162%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g3 { opacity: 0; animation: s3 13.99s linear infinite; }
+@keyframes s4 { 0%, 26.948% { opacity: 0 } 27.019%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g4 { opacity: 0; animation: s4 13.99s linear infinite; }
+@keyframes s5 { 0%, 27.806% { opacity: 0 } 27.877%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g5 { opacity: 0; animation: s5 13.99s linear infinite; }
+@keyframes s6 { 0%, 33.667% { opacity: 0 } 33.738%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g6 { opacity: 0; animation: s6 13.99s linear infinite; }
+@keyframes t6 { 0%, 33.667% { transform: translateX(0); animation-timing-function: steps(13, end) } 40.172%, 100% { transform: translateX(121.2px) } }
+.c6 { animation: t6 13.99s infinite; }
+@keyframes s7 { 0%, 42.673% { opacity: 0 } 42.745%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g7 { opacity: 0; animation: s7 13.99s linear infinite; }
+@keyframes s8 { 0%, 43.531% { opacity: 0 } 43.603%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g8 { opacity: 0; animation: s8 13.99s linear infinite; }
+@keyframes s9 { 0%, 49.392% { opacity: 0 } 49.464%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g9 { opacity: 0; animation: s9 13.99s linear infinite; }
+@keyframes t9 { 0%, 49.392% { transform: translateX(0); animation-timing-function: steps(13, end) } 55.897%, 100% { transform: translateX(121.2px) } }
+.c9 { animation: t9 13.99s infinite; }
+@keyframes s10 { 0%, 58.399% { opacity: 0 } 58.470%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g10 { opacity: 0; animation: s10 13.99s linear infinite; }
+@keyframes s11 { 0%, 64.260% { opacity: 0 } 64.332%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g11 { opacity: 0; animation: s11 13.99s linear infinite; }
+@media (prefers-reduced-motion: reduce) { [class^="g"] { animation: none !important; opacity: 1 !important } [class^="c"] { display: none } }
+</style>
+<defs><clipPath id="win"><rect width="860" height="394" rx="12"/></clipPath></defs>
+<g clip-path="url(#win)">
+<rect width="860" height="394" fill="#0d1420"/>
+<rect width="860" height="36" fill="#131d2e"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="430.0" y="23" fill="#8a9bb4" text-anchor="middle" style="font-size:12px">r00t@nandakrishna: ~</text>
+<g class="g0"><text xml:space="preserve" x="24" y="64" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">whoami</tspan></text><rect class="c0" x="39.8" y="50" width="62.4" height="20" fill="#0d1420"/></g>
+<g class="g1"><text xml:space="preserve" x="24" y="88" fill="#e6edf6"><tspan fill="#39ff8a">Nandakrishna&#160;M</tspan><tspan fill="#8a9bb4">&#160;//&#160;Offensive&#160;Security&#160;Consultant&#160;·&#160;Bug&#160;Bounty&#160;Hunter</tspan></text></g>
+<g class="g2"><text xml:space="preserve" x="24" y="120" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">cat&#160;about.txt</tspan></text><rect class="c2" x="39.8" y="106" width="121.2" height="20" fill="#0d1420"/></g>
+<g class="g3"><text xml:space="preserve" x="24" y="144" fill="#e6edf6"><tspan fill="#e6edf6">Pentester&#160;from&#160;Kerala,&#160;India,&#160;testing&#160;web&#160;apps,&#160;APIs,&#160;AI/LLM&#160;agents&#160;and&#160;networks.</tspan></text></g>
+<g class="g4"><text xml:space="preserve" x="24" y="168" fill="#e6edf6"><tspan fill="#e6edf6">I&#160;focus&#160;on&#160;auth&#160;and&#160;business-logic&#160;flaws,&#160;and&#160;prove&#160;every&#160;finding&#160;with&#160;a&#160;working&#160;PoC.</tspan></text></g>
+<g class="g5"><text xml:space="preserve" x="24" y="192" fill="#e6edf6"><tspan fill="#e6edf6">Outside&#160;client&#160;work,&#160;I&#160;hunt&#160;bugs&#160;and&#160;play&#160;CTFs.</tspan></text></g>
+<g class="g6"><text xml:space="preserve" x="24" y="224" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">cat&#160;focus.txt</tspan></text><rect class="c6" x="39.8" y="210" width="121.2" height="20" fill="#0d1420"/></g>
+<g class="g7"><text xml:space="preserve" x="24" y="248" fill="#e6edf6"><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;Web&#160;&amp;&#160;API&#160;pentesting&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;AI/LLM&#160;agent&#160;security</tspan></text></g>
+<g class="g8"><text xml:space="preserve" x="24" y="272" fill="#e6edf6"><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;Network&#160;pentesting&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;Bug&#160;bounty&#160;&amp;&#160;CTFs</tspan></text></g>
+<g class="g9"><text xml:space="preserve" x="24" y="304" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">echo&#160;$WEBSITE</tspan></text><rect class="c9" x="39.8" y="290" width="121.2" height="20" fill="#0d1420"/></g>
+<g class="g10"><text xml:space="preserve" x="24" y="328" fill="#e6edf6"><tspan fill="#00d9ff">https://nandakrishnam.github.io</tspan></text></g>
+<g class="g11"><text xml:space="preserve" x="24" y="360" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;</text><rect class="blk" x="40.8" y="348" width="8.4" height="16" fill="#39ff8a"/></g>
+</g>
+<rect x="0.5" y="0.5" width="859" height="393" rx="12" fill="none" stroke="#26364f"/>
+</svg>
