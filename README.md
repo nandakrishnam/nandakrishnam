@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./terminal.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs. Certs: eJPTv2, CAP, C3SA. Hall of fame: Google, Intel, WeTransfer, HackerEarth, Pusher, Jotform, ShopClues, ClickTime, AntiHack, Trovisio, BugDiscover and 20+ more." width="100%" />
+<img src="./terminal.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs."100%" />
 
 </div>
 
