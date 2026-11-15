@@ -8,27 +8,22 @@
 
 </div>
 
-```console
-$ whoami
-Offensive Security Consultant & bug bounty hunter from Kerala, India.
-Hands-on penetration testing across web apps, APIs, AI/LLM agents and networks.
-I hunt authentication, authorization and business-logic flaws, prove every
-finding with a working PoC, and turn it into a clear, actionable report.
+<div align="center">
 
-$ cat focus.txt
-[+] Web & API pentesting       [+] AI/LLM agent security
-[+] Network pentesting         [+] Bug bounty & CTFs
+Hands-on penetration testing across web apps, APIs, AI/LLM agents and networks.<br>
+I hunt authentication, authorization and business-logic flaws, prove every finding with a working PoC,<br>
+and turn it into a clear, actionable report.
 
-$ ls ~/certs
-eJPTv2   CAP   C3SA
+<br>
 
-$ cat hall-of-fame.txt
-Google · Intel · WeTransfer · HackerEarth · Pusher · Jotform · ShopClues
-ClickTime · AntiHack · Trovisio · BugDiscover ... and 20+ more
-```
+<img src="./terminal.svg" alt="Terminal: whoami shows Nandakrishna M, Offensive Security Consultant and Bug Bounty Hunter. Focus: web and API pentesting, AI/LLM agent security, network pentesting, bug bounty and CTFs. Certs: eJPTv2, CAP, C3SA. Hall of fame: Google, Intel, WeTransfer, HackerEarth, Pusher, Jotform, ShopClues, ClickTime, AntiHack, Trovisio, BugDiscover and 20+ more." width="100%" />
+
+</div>
 
 <div align="center">
 
 <sub>Writeups, certifications and more at <a href="https://nandakrishnam.github.io">nandakrishnam.github.io</a></sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1420,100:39ff8a&height=110&section=footer&animation=fadeIn" width="100%" alt="" />

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="370" viewBox="0 0 860 370" role="img" aria-label="Terminal: whoami, focus areas, certifications and hall of fame">
+<style>
+text { font-family: 'JetBrains Mono','Fira Code',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 14px; white-space: pre; }
+@keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+.blk { animation: blink 1s steps(1) infinite; }
+@keyframes s0 { 0%, 5.654% { opacity: 0 } 5.724%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g0 { opacity: 0; animation: s0 14.15s linear infinite; }
+@keyframes t0 { 0%, 5.654% { transform: translateX(0); animation-timing-function: steps(6, end) } 8.622%, 100% { transform: translateX(62.4px) } }
+.c0 { animation: t0 14.15s infinite; }
+@keyframes s1 { 0%, 11.095% { opacity: 0 } 11.166%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g1 { opacity: 0; animation: s1 14.15s linear infinite; }
+@keyframes s2 { 0%, 16.890% { opacity: 0 } 16.961%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g2 { opacity: 0; animation: s2 14.15s linear infinite; }
+@keyframes t2 { 0%, 16.890% { transform: translateX(0); animation-timing-function: steps(13, end) } 23.322%, 100% { transform: translateX(121.2px) } }
+.c2 { animation: t2 14.15s infinite; }
+@keyframes s3 { 0%, 25.795% { opacity: 0 } 25.866%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g3 { opacity: 0; animation: s3 14.15s linear infinite; }
+@keyframes s4 { 0%, 26.643% { opacity: 0 } 26.714%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g4 { opacity: 0; animation: s4 14.15s linear infinite; }
+@keyframes s5 { 0%, 32.438% { opacity: 0 } 32.509%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g5 { opacity: 0; animation: s5 14.15s linear infinite; }
+@keyframes t5 { 0%, 32.438% { transform: translateX(0); animation-timing-function: steps(10, end) } 37.385%, 100% { transform: translateX(96.0px) } }
+.c5 { animation: t5 14.15s infinite; }
+@keyframes s6 { 0%, 39.859% { opacity: 0 } 39.929%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g6 { opacity: 0; animation: s6 14.15s linear infinite; }
+@keyframes s7 { 0%, 45.654% { opacity: 0 } 45.724%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g7 { opacity: 0; animation: s7 14.15s linear infinite; }
+@keyframes t7 { 0%, 45.654% { transform: translateX(0); animation-timing-function: steps(20, end) } 55.548%, 100% { transform: translateX(180.0px) } }
+.c7 { animation: t7 14.15s infinite; }
+@keyframes s8 { 0%, 58.021% { opacity: 0 } 58.092%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g8 { opacity: 0; animation: s8 14.15s linear infinite; }
+@keyframes s9 { 0%, 58.869% { opacity: 0 } 58.940%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g9 { opacity: 0; animation: s9 14.15s linear infinite; }
+@keyframes s10 { 0%, 64.664% { opacity: 0 } 64.735%, 97% { opacity: 1 } 100% { opacity: 0 } }
+.g10 { opacity: 0; animation: s10 14.15s linear infinite; }
+@media (prefers-reduced-motion: reduce) { [class^="g"] { animation: none !important; opacity: 1 !important } [class^="c"] { display: none } }
+</style>
+<defs><clipPath id="win"><rect width="860" height="370" rx="12"/></clipPath></defs>
+<g clip-path="url(#win)">
+<rect width="860" height="370" fill="#0d1420"/>
+<rect width="860" height="36" fill="#131d2e"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="430.0" y="23" fill="#8a9bb4" text-anchor="middle" style="font-size:12px">r00t@nandakrishna: ~</text>
+<g class="g0"><text xml:space="preserve" x="24" y="64" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">whoami</tspan></text><rect class="c0" x="39.8" y="50" width="62.4" height="20" fill="#0d1420"/></g>
+<g class="g1"><text xml:space="preserve" x="24" y="88" fill="#e6edf6"><tspan fill="#39ff8a">Nandakrishna&#160;M</tspan><tspan fill="#8a9bb4">&#160;//&#160;Offensive&#160;Security&#160;Consultant&#160;·&#160;Bug&#160;Bounty&#160;Hunter</tspan></text></g>
+<g class="g2"><text xml:space="preserve" x="24" y="120" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">cat&#160;focus.txt</tspan></text><rect class="c2" x="39.8" y="106" width="121.2" height="20" fill="#0d1420"/></g>
+<g class="g3"><text xml:space="preserve" x="24" y="144" fill="#e6edf6"><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;Web&#160;&amp;&#160;API&#160;pentesting&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;AI/LLM&#160;agent&#160;security</tspan></text></g>
+<g class="g4"><text xml:space="preserve" x="24" y="168" fill="#e6edf6"><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;Network&#160;pentesting&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#39ff8a">[+]</tspan><tspan fill="#e6edf6">&#160;Bug&#160;bounty&#160;&amp;&#160;CTFs</tspan></text></g>
+<g class="g5"><text xml:space="preserve" x="24" y="200" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">ls&#160;~/certs</tspan></text><rect class="c5" x="39.8" y="186" width="96.0" height="20" fill="#0d1420"/></g>
+<g class="g6"><text xml:space="preserve" x="24" y="224" fill="#e6edf6"><tspan fill="#00d9ff">eJPTv2</tspan><tspan fill="#e6edf6">&#160;&#160;&#160;</tspan><tspan fill="#00d9ff">CAP</tspan><tspan fill="#e6edf6">&#160;&#160;&#160;</tspan><tspan fill="#00d9ff">C3SA</tspan></text></g>
+<g class="g7"><text xml:space="preserve" x="24" y="256" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;<tspan fill="#e6edf6">cat&#160;hall-of-fame.txt</tspan></text><rect class="c7" x="39.8" y="242" width="180.0" height="20" fill="#0d1420"/></g>
+<g class="g8"><text xml:space="preserve" x="24" y="280" fill="#e6edf6"><tspan fill="#e6edf6">Google&#160;·&#160;Intel&#160;·&#160;WeTransfer&#160;·&#160;HackerEarth&#160;·&#160;Pusher&#160;·&#160;Jotform</tspan></text></g>
+<g class="g9"><text xml:space="preserve" x="24" y="304" fill="#e6edf6"><tspan fill="#e6edf6">ShopClues&#160;·&#160;ClickTime&#160;·&#160;AntiHack&#160;·&#160;Trovisio&#160;·&#160;BugDiscover</tspan><tspan fill="#39ff8a">&#160;...&#160;and&#160;20+&#160;more</tspan></text></g>
+<g class="g10"><text xml:space="preserve" x="24" y="336" fill="#e6edf6"><tspan fill="#39ff8a">$</tspan>&#160;</text><rect class="blk" x="40.8" y="324" width="8.4" height="16" fill="#39ff8a"/></g>
+</g>
+<rect x="0.5" y="0.5" width="859" height="369" rx="12" fill="none" stroke="#26364f"/>
+</svg>
